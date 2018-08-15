@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Participant>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <h3 class="text-center"> Geziye katılanlar</h3>
+    <table class="table table-bordered table-sm table-responsive table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var participant in Model)
+            {
+                <tr>
+                    <td>@participant.Name</td>
+                    <td>@participant.Email</td>
+                    <td>@participant.Phone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+</body>
+</html>

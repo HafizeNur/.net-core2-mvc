@@ -1,0 +1,11 @@
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\bin\Debug\netcoreapp2.0\GeziKatılım.Web.deps.json
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\bin\Debug\netcoreapp2.0\GeziKatılım.Web.runtimeconfig.json
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\bin\Debug\netcoreapp2.0\GeziKatılım.Web.runtimeconfig.dev.json
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\bin\Debug\netcoreapp2.0\GeziKatılım.Web.dll
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\obj\Debug\netcoreapp2.0\GeziKatılım.Web.csprojResolveAssemblyReference.cache
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\obj\Debug\netcoreapp2.0\GeziKatılım.Web.csproj.CoreCompileInputs.cache
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\obj\Debug\netcoreapp2.0\GeziKatılım.Web.AssemblyInfoInputs.cache
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\obj\Debug\netcoreapp2.0\GeziKatılım.Web.AssemblyInfo.cs
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\bin\Debug\netcoreapp2.0\GeziKatılım.Web.pdb
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\obj\Debug\netcoreapp2.0\GeziKatılım.Web.dll
+c:\users\krkmz\source\repos\GeziKatılım.Web\GeziKatılım.Web\obj\Debug\netcoreapp2.0\GeziKatılım.Web.pdb

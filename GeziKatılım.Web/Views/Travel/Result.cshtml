@@ -1,0 +1,29 @@
+﻿@model Participant
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+
+    <h2>Teşekkürler , @Model.Name</h2>
+    <hr />
+    @if (Model.WillAttend == true)
+    {
+        @:Geziye katılmanıza sevindik.İyi eğlenceler :) 
+    }
+    else
+    {
+        @:Geziye katılmamanıza üzüldük :( 
+    }
+
+    Geziye katılanları <a asp-action="List" class="nav-link">liste.</a>
+
+</body>
+</html>
